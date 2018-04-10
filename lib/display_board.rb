@@ -1,9 +1,8 @@
-def display_board 
-  cell = "   |   |   "
-  divider = "-----------"
-  puts cell
-  puts divider
-  puts cell
-  puts divider
-  puts cell
+def display_board
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+  puts "-----------"
+  puts "   |   |   "
+end
 end
